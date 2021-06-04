@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FTP_Connect/1.0.0": {
+        "runtime": {
+          "FTP_Connect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FTP_Connect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
